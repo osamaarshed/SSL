@@ -1,0 +1,22 @@
+.style {
+  background-color: rgb(63, 186, 194) !important;
+  border-color: rgb(63, 186, 194) !important;
+  padding: 3px 15px !important;
+}
+@media screen and (min-width: 768px) {
+  .ch-text-font {
+    font-size: 12px !important;
+  }
+}
+@media screen and (min-width: 992px) {
+  .ch-text-font {
+    font-size: 12px !important;
+  }
+}
+@media screen and (min-width: 1220px) {
+  .style {
+    background-color: rgb(63, 186, 194) !important;
+    border-color: rgb(63, 186, 194) !important;
+    padding: 3px 15px !important;
+  }
+}

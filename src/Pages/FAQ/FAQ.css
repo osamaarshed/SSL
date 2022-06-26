@@ -1,0 +1,26 @@
+.FAQ-heading-container {
+  text-align: center;
+  margin-top: 3%;
+  font-weight: bolder;
+}
+.FAQ-heading {
+  font-weight: bolder;
+  margin-bottom: 3%;
+}
+.FAQ-SNH {
+  text-align: center;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.FAQ-SNH-heading {
+  font-weight: bolder;
+  font-size: 50px;
+}
+.FAQ-SNH-paragraph {
+  font-weight: 600;
+  font-size: 20px;
+}
+.FAQ-below {
+  margin-left: 10%;
+  margin-right: 10%;
+}

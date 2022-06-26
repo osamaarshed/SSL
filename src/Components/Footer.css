@@ -1,0 +1,128 @@
+.footer-container {
+  margin-top: 7%;
+  margin-bottom: 0;
+  padding-top: 4%;
+  padding-bottom: 2%;
+  background-color: rgb(63, 186, 194);
+  color: white;
+  text-align: center;
+}
+.footer-font {
+  font-size: 15px;
+  font-weight: bolder;
+}
+#fname {
+  background: transparent;
+  border-radius: 15px;
+  color: white !important;
+  border: 1px solid white;
+}
+.footer-subscribe {
+  display: flex !important;
+  flex-direction: row !important;
+  text-align: center;
+  margin-top: 20px;
+}
+.footer-button {
+  margin-left: 15px;
+}
+::placeholder {
+  color: white;
+  text-align: center;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+.footer-text-font {
+  font-size: 13px;
+}
+.footer-img-text-font {
+  font-size: 13px;
+  color: rgb(146, 213, 217);
+  font-weight: bolder;
+}
+@media screen and (min-width: 768px) {
+  .footer-font {
+    font-size: 12px;
+  }
+  .footer-text-font {
+    font-size: 9px;
+  }
+  .footer-img-text-font {
+    font-size: 9px;
+  }
+  .footer-subscribe {
+    display: flex;
+    flex-direction: column !important;
+  }
+  .footer-button {
+    margin-left: 5px !important;
+    margin-top: 5px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .footer-font {
+    font-size: 12px;
+  }
+  .footer-text-font {
+    font-size: 9px;
+  }
+  .footer-img-text-font {
+    font-size: 9px;
+  }
+  .footer-subscribe {
+    display: flex;
+    flex-direction: column !important;
+  }
+  .footer-button {
+    margin-left: 5px !important;
+    margin-top: 5px;
+  }
+}
+@media screen and (min-width: 1220px) {
+  .footer-container {
+    margin-top: 7%;
+    margin-bottom: 0;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    background-color: rgb(63, 186, 194);
+    color: white;
+    text-align: center;
+  }
+  .footer-font {
+    font-size: 15px;
+    font-weight: bolder;
+  }
+  #fname {
+    background: transparent;
+    border-radius: 15px;
+    color: white !important;
+    border: 1px solid white;
+  }
+  .footer-subscribe {
+    display: flex !important;
+    flex-direction: row !important;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .footer-button {
+    margin-left: 15px;
+  }
+  ::placeholder {
+    color: white;
+    text-align: center;
+  }
+  a:link {
+    color: white;
+    text-decoration: none;
+  }
+  .footer-text-font {
+    font-size: 13px;
+  }
+  .footer-img-text-font {
+    font-size: 13px;
+    color: rgb(146, 213, 217);
+    font-weight: bolder;
+  }
+}

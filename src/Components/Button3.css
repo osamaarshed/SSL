@@ -1,0 +1,30 @@
+.style3 {
+  color: rgb(63, 186, 194) !important;
+  font-weight: bolder;
+  background-color: white !important;
+  border-color: rgb(255, 255, 255) !important;
+  padding: 3px 15px !important;
+}
+@media screen and (min-width: 768px) {
+  .style3 {
+    font-size: 12px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .style3 {
+    font-size: 12px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px;
+  }
+}
+@media screen and (min-width: 1220px) {
+  .style3 {
+    color: rgb(63, 186, 194) !important;
+    font-weight: bolder;
+    background-color: white !important;
+    border-color: rgb(255, 255, 255) !important;
+    padding: 3px 15px !important;
+  }
+}

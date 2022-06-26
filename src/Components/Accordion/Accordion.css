@@ -1,0 +1,41 @@
+.accordion-heading-container {
+  display: flex;
+  cursor: pointer;
+  /* background-color: rgb(245, 245, 245); */
+  /* background-color: rgb(63, 186, 194); */
+  /* color: rgb(255, 255, 255); */
+  border-radius: 25px;
+  padding-left: 3%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.accordion-questions {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.accordion-arrow {
+  text-align: right;
+}
+.accordion-paragraph {
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 3%;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  /* padding-right: ; */
+}
+.accordion-wih {
+  padding-left: 3%;
+  font-weight: 600;
+  font-size: 15px;
+  color: rgb(131, 131, 131);
+}
+.accordion-paragraph-container {
+  margin-top: -20px;
+  border-left: 2px solid;
+  border-right: 2px solid;
+  border-bottom: 2px solid;
+  border-color: rgb(63, 186, 194);
+  border-radius: 10px;
+}

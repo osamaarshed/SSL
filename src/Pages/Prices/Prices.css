@@ -1,0 +1,133 @@
+.price-box-container {
+  margin-top: 5%;
+}
+.prices-heading-container {
+  text-align: center;
+  margin-top: 3%;
+}
+.prices-heading {
+  font-weight: bolder;
+  align-items: center;
+  justify-content: center;
+}
+.prices-custom-block {
+  color: white;
+  background-color: rgb(77, 96, 110);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: -25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px 0px;
+}
+.prices-silver-block {
+  color: white;
+  background-color: rgb(172, 172, 172);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: -25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px 0px;
+}
+.prices-gold-block {
+  color: white;
+  background-color: rgb(224, 184, 7);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: -25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px 0px;
+}
+.prices-silver-block-choose {
+  color: white;
+  background-color: rgb(172, 172, 172);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: -25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px 0px;
+}
+.prices-gold-block-choose {
+  color: white;
+  background-color: rgb(224, 184, 7);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: -25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px 0px;
+}
+.prices-custom-block-choose {
+  color: white;
+  background-color: rgb(77, 96, 110);
+  border-radius: 50px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: -25px;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 10px 0px;
+}
+.prices-custom-headings {
+  text-align: center;
+  margin-top: 20px;
+}
+.prices-getaquote {
+  font-weight: bold;
+  font-size: 30px;
+}
+.prices-silver-getaquote {
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(172, 172, 172);
+}
+.prices-gold-getaquote {
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(224, 184, 7);
+}
+.prices-below {
+  color: rgb(167, 167, 167);
+}
+.prices-tickcross {
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+}
+.prices-custom-border {
+  border: solid 3px;
+  border-radius: 20px;
+  margin-top: 35px !important;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-color: rgb(77, 96, 110);
+  /* padding-left: 8% !important; */
+  /* padding-right: 4% !important; */
+}
+.prices-silver-border {
+  border: solid 3px;
+  border-radius: 20px;
+  margin-top: 35px !important;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-color: rgb(172, 172, 172);
+}
+.prices-gold-border {
+  border: solid 3px;
+  border-radius: 20px;
+  margin-top: 35px !important;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-color: rgb(224, 184, 7);
+}
+.prices-cancel-background {
+  background-color: rgb(245, 245, 245);
+}

@@ -1,0 +1,12 @@
+.banner-pic {
+  margin-top: -100px;
+}
+/* .banner
+{
+  filter: opacity(0.5) drop-shadow(0 0 0 #06252c);
+} */
+@media screen and (max-width: 960px) {
+  .banner-pic {
+    margin-top: 0;
+  }
+}

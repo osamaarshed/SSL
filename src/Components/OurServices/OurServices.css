@@ -1,0 +1,334 @@
+.heading-container {
+  position: relative;
+  margin-top: 10%;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+.back-container {
+  margin-top: 200px;
+}
+.back-lightblue {
+  background-color: rgb(63, 186, 194);
+  height: 80px;
+}
+.back-darkblue {
+  background-color: rgb(0, 155, 165);
+  height: 20px;
+}
+
+.images-container {
+  display: flex;
+  padding: 40px;
+  /* align-items: center; */
+  justify-content: center;
+  box-shadow: 1px 1px 2px 2px rgb(182, 182, 182);
+  border-radius: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: -220px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+.box-image {
+  align-items: center;
+  width: 100px !important;
+  height: 100px;
+  object-fit: fill;
+  margin-left: 25%;
+}
+.truck-image {
+  align-items: center;
+  justify-content: center;
+  width: 150px !important;
+  height: 75px;
+  object-fit: fill;
+  margin: 14px;
+  /* margin-left: 25%; */
+}
+.phone-image {
+  align-items: center;
+  width: 100px !important;
+  height: 100px;
+  object-fit: fill;
+  margin-left: 25%;
+}
+.fonts {
+  font-size: 30px;
+}
+.box-image-container {
+  margin-left: 50px;
+  margin-right: 50px;
+  /* justify-content: center; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.truck-image-container {
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.phone-image-container {
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background-color: rgb(241, 241, 241) !important;
+  border-radius: 20px !important;
+  border-color: rgb(241, 241, 241) !important;
+}
+.button {
+  margin-top: 35px;
+}
+@media screen and (max-width: 767px) {
+  .heading {
+    font-size: 25px;
+  }
+  .images-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: -190px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .box-image {
+    width: 50px !important;
+    height: 50px;
+    margin-left: 35%;
+  }
+  .truck-image {
+    width: 60px !important;
+    height: 30px;
+    margin-left: 35%;
+  }
+  .phone-image {
+    width: 50px !important;
+    height: 50px;
+    margin-left: 35%;
+  }
+  /* .box-image-container {
+    margin-left: 200px;
+    margin-right: 10px;
+  }
+  .truck-image-container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .phone-image-container {
+    margin-left: 10px;
+    margin-right: 200px;
+  } */
+  .ourservices-card-title {
+    font-size: 17px !important;
+  }
+  .button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 30px;
+  }
+  .images-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -190px;
+    margin-bottom: 20px;
+  }
+  .box-image {
+    width: 50px !important;
+    height: 50px;
+    margin-left: 35%;
+  }
+  .truck-image {
+    width: 60px !important;
+    height: 30px;
+    margin-left: 35%;
+  }
+  .phone-image {
+    width: 50px !important;
+    height: 50px;
+    margin-left: 35%;
+  }
+  .box-image-container {
+    margin-left: 200px;
+    margin-right: 10px;
+  }
+  .truck-image-container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .phone-image-container {
+    margin-left: 10px;
+    margin-right: 200px;
+  }
+  .ourservices-card-title {
+    font-size: 17px !important;
+  }
+  .button {
+    margin-top: 25px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .heading {
+    font-size: 35px;
+  }
+  .heading-container {
+    margin-top: -10px;
+  }
+  .images-container {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: -190px;
+    margin-bottom: 20px;
+  }
+  .box-image {
+    width: 60px !important;
+    height: 50px;
+    margin-left: 35%;
+  }
+  .truck-image {
+    width: 60px !important;
+    height: 30px;
+    margin-left: 35%;
+  }
+  .phone-image {
+    width: 50px !important;
+    height: 50px;
+    margin-left: 35%;
+  }
+  .box-image-container {
+    margin-left: 200px;
+    margin-right: 10px;
+  }
+  .truck-image-container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .phone-image-container {
+    margin-left: 10px;
+    margin-right: 200px;
+  }
+  .ourservices-card-title {
+    font-size: 17px !important;
+  }
+  .ourservices-card-title-truck {
+    font-size: 17px !important;
+    margin-top: -5px !important;
+  }
+  .button {
+    margin-top: 25px;
+  }
+}
+@media screen and (min-width: 1220px) {
+  .heading-container {
+    position: relative;
+    margin-top: 5%;
+  }
+  .heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+  }
+  .back-container {
+    margin-top: 200px;
+  }
+  .back-lightblue {
+    background-color: rgb(63, 186, 194);
+    height: 80px;
+  }
+  .back-darkblue {
+    background-color: rgb(0, 155, 165);
+    height: 20px;
+  }
+
+  .images-container {
+    display: flex;
+    padding: 40px;
+    /* align-items: center; */
+    justify-content: center;
+    box-shadow: 1px 1px 2px 2px rgb(182, 182, 182);
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -220px;
+    margin-bottom: 20px;
+    background-color: white;
+  }
+  .box-image {
+    align-items: center;
+    width: 100px !important;
+    height: 100px;
+    object-fit: fill;
+    margin-left: 25%;
+  }
+  .truck-image {
+    align-items: center;
+    justify-content: center;
+    width: 150px !important;
+    height: 75px;
+    object-fit: fill;
+    margin: 14px;
+    /* margin-left: 25%; */
+  }
+  .phone-image {
+    align-items: center;
+    width: 100px !important;
+    height: 100px;
+    object-fit: fill;
+    margin-left: 25%;
+  }
+  .fonts {
+    font-size: 30px;
+  }
+  .box-image-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    /* justify-content: center; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .truck-image-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .phone-image-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .body {
+    display: flex;
+    justify-content: center;
+  }
+  .card {
+    background-color: rgb(241, 241, 241) !important;
+    border-radius: 20px !important;
+    border-color: rgb(241, 241, 241) !important;
+  }
+  .button {
+    margin-top: 35px;
+  }
+}

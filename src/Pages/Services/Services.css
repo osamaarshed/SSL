@@ -1,0 +1,19 @@
+.services-heading-container {
+  text-align: center;
+  margin-top: 3%;
+  font-weight: bolder;
+}
+.services-heading {
+  font-weight: bolder;
+  margin-bottom: 3%;
+}
+.services-upper-heading {
+  font-weight: bolder;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 6%;
+}
+.services-paragraph {
+  font-weight: 600;
+  font-size: 20px;
+}
