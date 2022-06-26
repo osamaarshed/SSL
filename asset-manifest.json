@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SSL/static/css/main.22e8dddf.chunk.css",
+    "main.js": "/SSL/static/js/main.571a9a59.chunk.js",
+    "main.js.map": "/SSL/static/js/main.571a9a59.chunk.js.map",
+    "runtime-main.js": "/SSL/static/js/runtime-main.5e67f73a.js",
+    "runtime-main.js.map": "/SSL/static/js/runtime-main.5e67f73a.js.map",
+    "static/css/2.53150396.chunk.css": "/SSL/static/css/2.53150396.chunk.css",
+    "static/js/2.c90566c1.chunk.js": "/SSL/static/js/2.c90566c1.chunk.js",
+    "static/js/2.c90566c1.chunk.js.map": "/SSL/static/js/2.c90566c1.chunk.js.map",
+    "index.html": "/SSL/index.html",
+    "static/css/2.53150396.chunk.css.map": "/SSL/static/css/2.53150396.chunk.css.map",
+    "static/css/main.22e8dddf.chunk.css.map": "/SSL/static/css/main.22e8dddf.chunk.css.map",
+    "static/js/2.c90566c1.chunk.js.LICENSE.txt": "/SSL/static/js/2.c90566c1.chunk.js.LICENSE.txt",
+    "static/media/Banner.4dd57dbf.png": "/SSL/static/media/Banner.4dd57dbf.png",
+    "static/media/GotSomethingTruck.232fa019.png": "/SSL/static/media/GotSomethingTruck.232fa019.png",
+    "static/media/Illustration.309bf3e8.png": "/SSL/static/media/Illustration.309bf3e8.png",
+    "static/media/map-background.7e3b7fb0.png": "/SSL/static/media/map-background.7e3b7fb0.png",
+    "static/media/still-got-questions.75bcafb9.png": "/SSL/static/media/still-got-questions.75bcafb9.png",
+    "static/media/virtual-assistant.9495a8bf.png": "/SSL/static/media/virtual-assistant.9495a8bf.png",
+    "static/media/waw-truck.3d77ddfa.png": "/SSL/static/media/waw-truck.3d77ddfa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e67f73a.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.c90566c1.chunk.js",
+    "static/css/main.22e8dddf.chunk.css",
+    "static/js/main.571a9a59.chunk.js"
+  ]
+}
